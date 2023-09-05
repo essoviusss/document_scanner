@@ -15,6 +15,7 @@ dependencies:
     git:
       url: https://github.com/essoviusss/photo_view.git
   path_provider: ^2.0.2
+publish_to: none
 
 dev_dependencies:
   flutter_test:
